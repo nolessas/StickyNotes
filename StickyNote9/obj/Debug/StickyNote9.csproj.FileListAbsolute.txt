@@ -1,0 +1,13 @@
+C:\Users\Razer\Desktop\dot net\C# essentials\StickyNote9\StickyNote9\bin\Debug\StickyNote9.exe
+C:\Users\Razer\Desktop\dot net\C# essentials\StickyNote9\StickyNote9\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Razer\Desktop\dot net\C# essentials\StickyNote9\StickyNote9\bin\Debug\StickyNote9.exe.config
+C:\Users\Razer\Desktop\dot net\C# essentials\StickyNote9\StickyNote9\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Razer\Desktop\dot net\C# essentials\StickyNote9\StickyNote9\obj\Debug\StickyNote9.csproj.AssemblyReference.cache
+C:\Users\Razer\Desktop\dot net\C# essentials\StickyNote9\StickyNote9\obj\Debug\StickyNote9.Form1.resources
+C:\Users\Razer\Desktop\dot net\C# essentials\StickyNote9\StickyNote9\obj\Debug\StickyNote9.Properties.Resources.resources
+C:\Users\Razer\Desktop\dot net\C# essentials\StickyNote9\StickyNote9\obj\Debug\StickyNote9.csproj.GenerateResource.cache
+C:\Users\Razer\Desktop\dot net\C# essentials\StickyNote9\StickyNote9\obj\Debug\StickyNote9.csproj.CoreCompileInputs.cache
+C:\Users\Razer\Desktop\dot net\C# essentials\StickyNote9\StickyNote9\obj\Debug\StickyNo.479B5AB0.Up2Date
+C:\Users\Razer\Desktop\dot net\C# essentials\StickyNote9\StickyNote9\obj\Debug\StickyNote9.exe
+C:\Users\Razer\Desktop\dot net\C# essentials\StickyNote9\StickyNote9\obj\Debug\StickyNote9.pdb
+C:\Users\Razer\Desktop\dot net\C# essentials\StickyNote9\StickyNote9\bin\Debug\StickyNote9.pdb
